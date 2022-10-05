@@ -1,7 +1,9 @@
 # mfe
+
 Build incredibly scalable apps with a microfrontend architecture
 
 # Description
+
 Congratulations! You've found the most popular, most complete, and most up-to-date resource online for learning how to use microfrontends!
 
 Thousands of other engineers have learned microfrontends, and you can too. This course uses a time-tested, battle-proven method to make sure you understand exactly how microfrontends work, and will get you a new job working as a software engineer or help you build that app you've always been dreaming about.
@@ -20,7 +22,7 @@ Allow each of your engineering teams to work independently
 
 This new architecture is popular, but there is a lot of misinformation online. This course has been developed with input from top engineers to ensure total technical accuracy. Additionally, you'll learn how to evaluate whether microservices are a good choice for your application.
 
-----------------------
+---
 
 What will you build?
 
@@ -52,4 +54,3 @@ I built this course to save you hundreds of hours of self study. I've put years 
 
 Who this course is for:
 Engineers looking to scale frontend apps
-
